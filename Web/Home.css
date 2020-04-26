@@ -1,0 +1,91 @@
+header{
+  font-variant: small-caps;
+  font-size: 200%;
+  font-family: Arial;
+  color: black;
+  text-align: center;
+  background-color: silver;
+}
+table{
+  width: 600px;
+  margin-left:20px;
+  border-collapse: separate;
+  border-spacing: 0px;
+}
+nav{
+  text-align: center;
+  height: 70px;
+}
+div{
+  height: 130px;
+}
+#td1{
+  width: 100px;
+}
+#td2{
+  line-height:0px;
+  padding-bottom:0px;
+}
+#tesla,#avengers,#liverpool{
+  width: 800px;
+  height: 300px;
+  margin-left: 20px;
+}
+
+img{
+  width: 100px;
+  float: left;
+}
+footer{
+  clear: both;
+
+  margin-left: 20px;
+}
+#h{
+  margin-left: 15px;
+}
+h3{
+    display: block;
+    font-size: 1;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p{
+
+
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+
+}
+
+nav{
+  height: 150px;
+}
+#a1{
+  display: block;
+  font-weight: bold;
+  color: silver;
+  text-align: center;
+  background-color: black;
+  width: 300px;
+  padding: 4px;
+  text-decoration:none;
+  margin:0 auto;
+  margin-top: 10px;
+}
+span{
+  background-color: silver;
+}
+#a1:hover{
+  color: white;
+}
+ul{
+  list-style-type:upper-roman;
+
+}

@@ -1,0 +1,33 @@
+
+table{
+
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+img{
+  width: 200px;
+  height: 100px;
+}
+#a1{
+  display: block;
+  font-weight: bold;
+  color: silver;
+  text-align: center;
+  background-color: black;
+  width: 300px;
+  padding: 4px;
+  text-decoration:none;
+  margin:0 auto;
+  margin-top: 10px;
+}
+#td1{
+  background-color:silver;
+}
+#a1:hover{
+  color: white;
+}
